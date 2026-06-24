@@ -51,6 +51,22 @@ This project implements a complete **HR analytics and downstream reporting pipel
 
 ---
 
+## 📸 Screenshots
+
+| Dashboard Overview & KPIs | 🤖 ML Attrition Risk Scores |
+|:---:|:---:|
+| ![Dashboard Overview](screenshots/overview_kpis.png) | ![Risk Scores Tab](screenshots/risk_scores.png) |
+
+<div align="center">
+
+**🎛️ What-If Salary Simulator — Live Retention ROI Calculator**
+
+![Salary Simulator](screenshots/salary_simulator.png)
+
+</div>
+
+---
+
 ## 🎯 Problem Statements
 
 ### 1. ETL Pipeline & Data Cleaning — `HR_Data_Cleaning.ipynb`
